@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(51, 54, 53);
+    color:rgb(209, 206, 202);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.youtube{
+    font-size: 4em;
+}
+.youtube span{
+    color:red;
+}
+
+input{
+    font-size: 2em;
+    border-radius: 10px;
+    padding:.4em 1em;
+    /* padding-right:1em; */
+    font-weight: 600;
+    color:gray;
+
+}
+button{
+    font-size: 2em;
+    border-radius: 10px;
+       padding:.4em 1em;
+  
+
+}
+
+.google
+{
+    font-size:4em;
+};
+
+#g{
+    color: #4285f4;
+};
+#oe{
+        color: #EA4335;
+
+};
+#o{
+        color: #fBBc05;
+};
+#l{
+        color: #34a853;
+
+};
